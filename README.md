@@ -6,6 +6,10 @@ AI-Powered Resume Screening & Career Recommendation System built using Machine L
 
 HireSense AI helps users evaluate resumes against job descriptions, calculate ATS compatibility, identify missing skills, predict suitable career roles, and receive personalized improvement recommendations.
 
+## 🌐 Live Demo
+
+https://hiresense-ai-khushi.streamlit.app
+
 ## ✨ Features
 
 - 📄 Resume PDF Parsing
