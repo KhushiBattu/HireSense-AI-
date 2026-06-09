@@ -1,2 +1,117 @@
-# HireSense-AI-
-AI-powered resume screening and career recommendation system using NLP, Machine Learning, and Streamlit.
+# 🤖 HireSense AI
+
+AI-Powered Resume Screening & Career Recommendation System built using Machine Learning, NLP, and Streamlit.
+
+## 🚀 Overview
+
+HireSense AI helps users evaluate resumes against job descriptions, calculate ATS compatibility, identify missing skills, predict suitable career roles, and receive personalized improvement recommendations.
+
+## ✨ Features
+
+- 📄 Resume PDF Parsing
+- 🔍 Skill Extraction
+- 📊 Skill Match Score
+- 🧠 Semantic Similarity Analysis
+- 🎯 Career Role Prediction
+- 📈 Prediction Confidence Score
+- 🚀 Top Career Path Suggestions
+- ✅ Matched Skills Detection
+- ❌ Missing Skills Detection
+- 🔄 Related Skills Analysis
+- 📋 Keyword Coverage Tracking
+- ⭐ ATS Resume Score
+- 💡 Personalized Resume Improvement Suggestions
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Language
+- Python
+
+### Libraries & Frameworks
+- Streamlit
+- Pandas
+- Scikit-Learn
+- PDFPlumber
+
+### Machine Learning & NLP
+- TF-IDF Vectorization
+- Cosine Similarity
+- Logistic Regression
+
+---
+
+## 📂 Project Structure
+
+```text
+HireSense-AI
+│
+├── app.py
+├── parser.py
+├── skills.py
+├── matcher.py
+├── role_predictor.py
+├── ats_score.py
+├── recommendations.py
+├── skill_groups.py
+│
+├── data
+│   ├── skills.csv
+│   └── roles.csv
+│
+├── requirements.txt
+└── README.md
+```
+
+---
+
+## ⚙️ How It Works
+
+1. Upload Resume (PDF)
+2. Extract Skills from Resume
+3. Paste Job Description
+4. Compare Resume with JD
+5. Calculate Skill Match Score
+6. Calculate ATS Score
+7. Detect Missing Skills
+8. Predict Suitable Career Role
+9. Show Career Path Recommendations
+10. Generate Resume Improvement Suggestions
+
+---
+
+## 📸 Screenshots
+
+### Dashboard
+
+_Add project screenshots here_
+
+---
+
+## 🎯 Example Output
+
+- Skill Match Score: 80%
+- ATS Score: 85/100
+- Recommended Role: Machine Learning Engineer
+- Prediction Confidence: 45%
+- Missing Skills: AWS, Docker
+- Related Skills: Azure → AWS
+
+---
+
+## 🔮 Future Improvements
+
+- Resume Ranking System
+- Multiple Resume Comparison
+- Job Recommendation Engine
+- Resume PDF Report Generation
+- LLM-Powered Feedback
+
+---
+
+## 👩‍💻 Author
+
+**Khushi Battu**
+
+GitHub: https://github.com/KhushiBattu
