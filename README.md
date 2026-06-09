@@ -93,16 +93,17 @@ HireSense-AI
 
 ### 📊 Resume Match Analysis
 
-![Resume Match Analysis]()
+![Resume Match Analysis](![alt text](image-1.png))
 
 ### 🎯 Role Prediction & ATS Dashboard
 
-![Role Prediction](screenshots/dashboard.png)
+![Role Prediction](![alt text](image-2.png))
 
 ### 🚀 Career Path Suggestions
 
-![Career Suggestions](screenshots/recommendations.png)
+![Career Suggestions](![alt text](image-3.png))
 
+![alt text](image-4.png)
 ---
 
 ## 🎯 Example Output
