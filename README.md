@@ -87,9 +87,21 @@ HireSense-AI
 
 ## 📸 Screenshots
 
-### Dashboard
+### 🏠 Home Dashboard
 
-_Add project screenshots here_
+![Home Dashboard](![alt text](image.png))
+
+### 📊 Resume Match Analysis
+
+![Resume Match Analysis]()
+
+### 🎯 Role Prediction & ATS Dashboard
+
+![Role Prediction](screenshots/dashboard.png)
+
+### 🚀 Career Path Suggestions
+
+![Career Suggestions](screenshots/recommendations.png)
 
 ---
 
